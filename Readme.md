@@ -15,7 +15,11 @@
 
 ---
 
-one_OS is a full desktop, with windows, a taskbar, files and a Start menu. It has no app store. When you need something, you tell the assistant, and it writes the app and puts it on your desktop. If you want the app changed, you say so.
+Ever opened an app and found the one feature you need is missing? Every app you use was designed for someone else. The setting you want is buried or doesn't exist. The export button isn't there. You send a feature request and wait, or you pay for a second app that does that one thing, then a third. And the apps you depend on can change, raise their price or disappear without asking you.
+
+one_OS works the other way round. It's a full desktop, with windows, a taskbar, files and a Start menu, and it comes with no apps. When you need one, you describe it, and the assistant writes it and puts it on your desktop. Missing a feature? Ask for it and it gets added. If you can describe it, you can have it.
+
+Those apps are yours. They live on your machine, they work the way you want, and they only change when you ask.
 
 ```
 "Make me a kanban board with swimlanes"
@@ -26,7 +30,7 @@ one_OS is a full desktop, with windows, a taskbar, files and a Start menu. It ha
 
 ## What you get
 
-- **Apps that are yours.** Every app is saved on your machine, and you can change it whenever you like. Each app remembers everything you've asked for, so it can be rebuilt from scratch if an edit goes wrong.
+- **Apps that can't get lost.** Each app remembers everything you've asked for, so it can be rebuilt from scratch if an edit goes wrong.
 - **Games, too.** Game Studio builds 2D and 3D games from a description.
 - **An assistant that remembers you.** It keeps notes on your preferences and projects. You can read, pin or delete any of them.
 - **Voice.** Talk to it and it talks back. Speech runs on your own machine.
