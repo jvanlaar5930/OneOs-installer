@@ -13,6 +13,13 @@
   <a href="https://github.com/jvanlaar5930/OneOs-installer/releases/latest"><img src="https://img.shields.io/github/v/release/jvanlaar5930/OneOs-installer?style=for-the-badge&label=Download%20for%20Windows&color=8a6bff" alt="Download for Windows"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows_10%2F11_x64-0f1118?style=flat-square" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Claude_CLI-ready-8a6bff?style=flat-square" alt="Claude CLI"/>
+  <img src="https://img.shields.io/badge/local_models-built_in-22c55e?style=flat-square" alt="Local models"/>
+  <img src="https://img.shields.io/badge/OpenAI--compatible-API-5b9bff?style=flat-square" alt="OpenAI compatible"/>
+</p>
+
 ---
 
 Ever opened an app and found the one feature you need is missing? Every app you use was designed for someone else. The setting you want is buried or doesn't exist. The export button isn't there. You send a feature request and wait, or you pay for a second app that does that one thing, then a third. And the apps you depend on can change, raise their price or disappear without asking you.
